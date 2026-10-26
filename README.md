@@ -15,8 +15,7 @@
 
 <div align="center">
 
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Courier+Prime&size=20&duration=100&pause=1800&color=70454A&center=true&vCenter=true&width=850&height=60&lines=Do+you+believe+in+love+at+first+sight%3F;Do+you+believe+in+fate%3F)](https://git.io/typing-svg)
 
 <img width="840" height="250" alt="image" src="https://github.com/user-attachments/assets/229efac8-c945-4ca2-a491-dabc48e2d79b" />
 
