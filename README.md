@@ -32,7 +32,11 @@
 
 ---
 
-$\color{#515151}{{"test}}$ $\color{#696969}{{test}}$ $\color{#808080}{{test}}$ $\color{#989898}{{test}}$ $\color{#adadad}{{test}}$ $\color{#bababa}{{test}}$ $\color{#cfcfcf}{{test."}}$
+$\color{#4A0000}{\text{mel's github!!}}$
+
+$\color{#610000}{\text{spn fan}}$ $\color{#780000}{\text{· mcu fan}}$ $\color{#8F0000}{\text{· the boys fan}}$
+
+$\color{#A60000}{\text{minor}}$ $\color{#BD0000}{\text{· 13-15 int}}$ $\color{#D41414}{\text{· 16+ iwc}}$
 
 ---
 
