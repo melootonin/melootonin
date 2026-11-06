@@ -32,11 +32,11 @@
 
 ---
 
-$\color{#4A0000}{\text{mel's github!!}}$
+$\color{#5B2826}{\text{mel's github!!}}$
 
-$\color{#610000}{\text{spn fan}}$ $\color{#780000}{\text{· mcu fan}}$ $\color{#8F0000}{\text{· the boys fan}}$
+$\color{#362222}{\text{spn fan}}$ $\color{#7E3331}{\text{· mcu fan}}$ $\color{#6D4744}{\text{· the boys fan}}$
 
-$\color{#A60000}{\text{minor}}$ $\color{#BD0000}{\text{· 13-15 int}}$ $\color{#D41414}{\text{· 16+ iwc}}$
+$\color{#5B2826}{\text{minor}}$ $\color{#362222}{\text{· 13-15 int}}$ $\color{#7E3331}{\text{· 16+ iwc}}$
 
 ---
 
