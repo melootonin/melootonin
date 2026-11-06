@@ -24,7 +24,7 @@
 <tr>
 <td align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Bonheur+Royale&size=150&duration=5000&pause=1800&color=652B2C&center=true&vCenter=true&width=2000&height=260&lines=Do+you+believe+in+love+at+first+sight%3F;Do+you+believe+in+fate%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Bonheur+Royale&size=150&duration=5000&pause=1800&color=4D2A28&center=true&vCenter=true&width=2000&height=260&lines=Do+you+believe+in+love+at+first+sight%3F;Do+you+believe+in+fate%3F)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -37,6 +37,13 @@ $\color{#7E3333}{\text{mel's github!!}}$
 $\color{#7E3333}{\text{spn fan}}$ $\color{#7E3333}{\text{· mcu fan}}$ $\color{#7E3333}{\text{· the boys fan}}$
 
 $\color{#7E3333}{\text{minor}}$ $\color{#7E3333}{\text{· 13-15 int}}$ $\color{#7E3333}{\text{· 16+ iwc}}$
+
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/64b75f71-c76d-4b5a-8c37-ce93277b890b" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/c7b45d5e-b23b-4efb-b9b6-d9c2e8afd822" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/7af64345-dc11-491a-b32f-8fb13ab993a6" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/ea009975-144b-48be-979e-4e455f9059f7" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/ed88b3c5-6053-4f4c-a79a-0328bf33911d" />
+
+
+
+
+
 
 ---
 
