@@ -19,6 +19,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Pirata+One&size=35&duration=5000&pause=1800&color=70454A&center=true&vCenter=true&width=1000&height=90&lines=Do+you+believe+in+love+at+first+sight%3F;Do+you+believe+in+fate%3F)](https://git.io/typing-svg)
 
+<div style="border: 1px solid #652B2C; padding: 15px;">
+  <code style="color: #A87880;">testing this ignore</code>
+</div>
+
 <img width="855" height="65" alt="image" src="https://github.com/user-attachments/assets/cdee6f98-0cef-43e7-800f-8bd0192d8fd2" />
 <img width="840" height="250" alt="image" src="https://github.com/user-attachments/assets/229efac8-c945-4ca2-a491-dabc48e2d79b" />
 
