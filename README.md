@@ -32,11 +32,11 @@
 
 ---
 
-$${\color{#7E3333}\text{mel's \space github!!}}$$
+$\color{#7E3333}{\text{mel's github!!}}$
 
-$${\color{#7E3333}\text{spn \space fan \space \cdot \space mcu \space fan \space \cdot \space the boys fan}}$$
+$\color{#7E3333}{\text{spn fan}}$ $\color{#7E3333}{\text{· mcu fan}}$ $\color{#7E3333}{\text{· the boys fan}}$
 
-$${\color{#7E3333}\text{minor \space \cdot \space 13-15 \space int \space \cdot \space 16+ \space iwc}}$$
+$\color{#7E3333}{\text{minor}}$ $\color{#7E3333}{\text{· 13-15 int}}$ $\color{#7E3333}{\text{· 16+ iwc}}$
 
 ---
 
