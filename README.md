@@ -32,11 +32,11 @@
 
 ---
 
-$\color{#7E3331}{\text{mel's github!!}}$
+$\color{#7E3333}{\text{m}}$$\color{#7E3331}{\text{e}}$$\color{#803433}{\text{l}}$'$\color{#704847}{\text{s}}$ $\color{#624242}{\text{g}}$$\color{#7E3333}{\text{i}}$$\color{#7E3331}{\text{t}}$$\color{#803433}{\text{h}}$$\color{#704847}{\text{u}}$$\color{#624242}{\text{b}}$$\color{#7E3333}{\text{!}}$$\color{#7E3331}{\text{!}}$
 
-$\color{#341919}{\text{spn fan}}$ $\color{#7E3331}{\text{· mcu fan}}$ $\color{#341919}{\text{· the boys fan}}$
+$\color{#7E3333}{\text{s}}$$\color{#7E3331}{\text{p}}$$\color{#803433}{\text{n}}$ $\color{#704847}{\text{f}}$$\color{#624242}{\text{a}}$$\color{#7E3333}{\text{n}}$ · $\color{#7E3331}{\text{m}}$$\color{#803433}{\text{c}}$$\color{#704847}{\text{u}}$ $\color{#624242}{\text{f}}$$\color{#7E3333}{\text{a}}$$\color{#7E3331}{\text{n}}$ · $\color{#803433}{\text{t}}$$\color{#704847}{\text{h}}$$\color{#624242}{\text{e}}$ $\color{#7E3333}{\text{b}}$$\color{#7E3331}{\text{o}}$$\color{#803433}{\text{y}}$$\color{#704847}{\text{s}}$ $\color{#624242}{\text{f}}$$\color{#7E3333}{\text{a}}$$\color{#7E3331}{\text{n}}$
 
-$\color{#7E3331}{\text{minor}}$ $\color{#341919}{\text{· 13-15 int}}$ $\color{#7E3331}{\text{· 16+ iwc}}$
+$\color{#7E3333}{\text{m}}$$\color{#7E3331}{\text{i}}$$\color{#803433}{\text{n}}$$\color{#704847}{\text{o}}$$\color{#624242}{\text{r}}$ · $\color{#7E3333}{\text{1}}$$\color{#7E3331}{\text{3}}$-$\color{#803433}{\text{1}}$$\color{#704847}{\text{5}}$ $\color{#624242}{\text{i}}$$\color{#7E3333}{\text{n}}$$\color{#7E3331}{\text{t}}$ · $\color{#803433}{\text{1}}$$\color{#704847}{\text{6}}$$\color{#624242}{\text{+}}$ $\color{#7E3333}{\text{i}}$$\color{#7E3331}{\text{w}}$$\color{#803433}{\text{c}}$
 
 ---
 
