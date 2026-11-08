@@ -32,7 +32,7 @@
 
 ---
 
-$\color{#7E4E4B}{\text{mel's github!!}}$
+$\color{#875555}{\text{mel's github!!}}$
 
 $\color{#7E4E4B}{\text{spn fan}}$ $\color{#7E4E4B}{\text{· mcu fan}}$ $\color{#7E4E4B}{\text{· the boys fan}}$ $\color{#7E4E4B}{\text{· bf6 fan}}$
 
