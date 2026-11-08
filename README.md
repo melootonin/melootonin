@@ -34,7 +34,7 @@
 
 $\color{#6D2B2A}{\text{𝐦𝐞𝐥'𝐬 github!!}}$
 
-$\color{#7E4E4B}{\text{spn fan}}$ $\color{#7E4E4B}{\text{· mcu fan}}$ $\color{#7E4E4B}{\text{· the boys fan}}$ $\color{#7E4E4B}{\text{· bf6 fan}}$
+$\color{#7E4E4B}{\text{𝐬𝐩𝐧 fan}}$ $\color{#7E4E4B}{\text{· 𝐦𝐜𝐮 fan}}$ $\color{#7E4E4B}{\text{· 𝐭𝐡𝐞 𝐛𝐨𝐲𝐬 fan}}$ $\color{#7E4E4B}{\text{· 𝐛𝐟6 fan}}$
 
 $\color{#7E4E4B}{\text{minor}}$ $\color{#7E4E4B}{\text{· 13-15 int}}$ $\color{#7E4E4B}{\text{· 16+ iwc}}$ $\color{#7E4E4B}{\text{· freely int / c+h}}$ $\color{#7E4E4B}{\text{· pro at signing random atas}}$
 
