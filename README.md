@@ -42,10 +42,17 @@ $\color{#7E4E4B}{\text{minor}}$ $\color{#7E4E4B}{\text{· 13-15 int}}$ $\color{#
 $\color{#6D2B2A}{\text{𝘀𝗲𝗯𝗮𝘀𝘁𝗶𝗮𝗻 𝘀𝘁𝗮𝗻 enthusiast}}$ $\color{#6D2B2A}{\text{· 𝗷𝗲𝗻𝘀𝗲𝗻 𝗮𝗰𝗸𝗹𝗲𝘀 enthusiast}}$ $\color{#6D2B2A}{\text{· 𝐭𝐨𝐦 𝐡𝐨𝐥𝐥𝐚𝐧𝐝 enthusiast}}$ 
 
 
+
+
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/64b75f71-c76d-4b5a-8c37-ce93277b890b" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/c7b45d5e-b23b-4efb-b9b6-d9c2e8afd822" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/7af64345-dc11-491a-b32f-8fb13ab993a6" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/ea009975-144b-48be-979e-4e455f9059f7" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/ed88b3c5-6053-4f4c-a79a-0328bf33911d" />
 
 
+<details>
+<summary>$\color{#6D2B2A}{\text{hey.. open this}}$</summary>
 
+$\color{#7E4E4B}{\text{if you're looking at my profile.. you might aswell sign my ata and check my socials right?? ahaha... no? ok.}}$ 
+
+</details>
 
 
 
