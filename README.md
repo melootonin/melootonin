@@ -24,7 +24,7 @@
 <tr>
 <td align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Bonheur+Royale&size=150&duration=5000&pause=2500&color=4D2A28&center=true&vCenter=true&width=2000&height=260&lines=Human+beings+in+a+mob.;What's+a+mob+to+a+king%3F;What's+a+king+to+a+god%3F;What's+a+god+to+a+non-believer%3F;Who+don't+believe+in+anything%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Ephesis&size=150&duration=5000&pause=2500&color=4D2A28&center=true&vCenter=true&width=2000&height=260&lines=Human+beings+in+a+mob.;What's+a+mob+to+a+king%3F;What's+a+king+to+a+god%3F;What's+a+god+to+a+non-believer%3F;Who+don't+believe+in+anything%3F)](https://git.io/typing-svg)
 
 <div align="center">
 
